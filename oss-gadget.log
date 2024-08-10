@@ -1,0 +1,30 @@
+2024/08/10 19:53:35.317|TRACE|DownloadVersion pkg:npm/left-pad@1.3.0 |
+2024/08/10 19:53:35.391|TRACE|GetJsonCache(https://registry.npmjs.org/left-pad, True) |
+2024/08/10 19:53:35.391|TRACE|Loading Uri... |
+2024/08/10 19:53:35.819|DEBUG|Downloading pkg:npm/left-pad@1.3.0... |
+2024/08/10 19:53:36.392|TRACE|ExtractArchive(npm-left-pad@1.3.0, <stream> len=3619) |
+2024/08/10 19:53:36.965|TRACE|ResetResourceGovernor() |
+2024/08/10 19:53:36.965|TRACE|ExtractFile("npm-left-pad@1.3.0") |FullPath=npm-left-pad@1.3.0
+2024/08/10 19:53:36.993|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3
+2024/08/10 19:53:37.115|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\package.json") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\package.json
+2024/08/10 19:53:37.115|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\package.json |
+2024/08/10 19:53:37.115|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\.travis.yml") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\.travis.yml
+2024/08/10 19:53:37.115|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\.travis.yml |
+2024/08/10 19:53:37.115|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\COPYING") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\COPYING
+2024/08/10 19:53:37.115|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\COPYING |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.d.ts") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.d.ts
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.d.ts |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.js") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.js
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\index.js |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\README.md") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\README.md
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\README.md |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\test.js") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\test.js
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\test.js |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\es6Repeat.js") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\es6Repeat.js
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\es6Repeat.js |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\O(n).js") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\O(n).js
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\O(n).js |
+2024/08/10 19:53:37.122|TRACE|ExtractFile("npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\perf.js") |FullPath=npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\perf.js
+2024/08/10 19:53:37.122|TRACE|Extracted npm-left-pad@1.3.0\npm-left-pad@1.3\package\perf\perf.js |
+2024/08/10 19:53:37.122|DEBUG|Archive extracted to C:\dev\source\ado\microsoft-sdl\Playground\miscovet\ghmirror\test\npm-left-pad@1.3.0 |
+2024/08/10 19:53:37.122|INFO|Downloaded pkg:npm/left-pad@1.3.0 to C:\dev\source\ado\microsoft-sdl\Playground\miscovet\ghmirror\test\npm-left-pad@1.3.0 |
